@@ -4,3 +4,7 @@
 [submodule "anki/wired/vector-gobot"]
 	path = anki/wired/vector-gobot
 	url = https://github.com/kercre123/vector-gobot
+[submodule "anki/anki/victor"]
+	path = anki/anki/victor
+	url = https://github.com/gamingtimevr/victor
+	branch = RainbOS
